@@ -108,7 +108,7 @@ Both projects are successfully deployed on **Hugging Face Spaces**, providing:
 
 For questions, collaborations, or opportunities:
 - **Email:** sharmalakshay0911@gmail.com
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/lakshya-kumar)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lakshya-kumar-7b16252b4/)
 
 ---
 
