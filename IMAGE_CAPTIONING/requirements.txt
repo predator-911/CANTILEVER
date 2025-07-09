@@ -1,0 +1,10 @@
+gradio
+torch
+torchvision
+transformers
+Pillow
+numpy
+opencv-python
+matplotlib
+requests
+accelerate
