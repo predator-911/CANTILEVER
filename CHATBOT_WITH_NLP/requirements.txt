@@ -1,0 +1,12 @@
+streamlit
+torch
+transformers
+numpy
+pandas
+plotly
+scikit-learn
+sentencepiece
+tokenizers
+accelerate
+huggingface-hub
+safetensors
